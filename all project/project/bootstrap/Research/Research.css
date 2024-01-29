@@ -1,0 +1,37 @@
+.main{
+    background-color: #000033;
+    height: 100vh;
+}
+
+.items{
+    margin-left: 840px;
+}
+
+.heading{
+    text-align: center;
+    color: #000033;
+}
+
+i{
+    font-size: 50px;
+}
+
+
+.end{
+    text-align: center;
+    background-color: #000033;
+    color: white;
+}
+
+.box{
+    margin-top: 50px;
+}
+
+
+@media screen and (max-width:990px) {
+    img{
+        display: none ;
+    }
+}
+
+
